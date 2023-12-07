@@ -2,9 +2,15 @@
 
 Username: @AaronDavila05
 
-I am a computer scientist at CSUF and expect to graduate in 2028
+https://github.com/AaronDavila05
 
-Here's my portfolio
+University: California State University Fullerton
+
+Major: Computer Science
+
+Graduation Year: 2028
+
+Here's my portfolio:
 
 * Lab 12
 
